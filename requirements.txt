@@ -1,0 +1,6 @@
+scapy
+pyinstaller
+flask
+requests
+fs.smbfs
+paramiko

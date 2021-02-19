@@ -1,0 +1,13 @@
+1.安装python并加入环境变量(pip也需要)
+
+3.安装nmap,官网:https://nmap.org/
+
+3.进入目录,用命令行输入'pip install -r requirements.txt'
+
+
+
+
+
+
+
+推荐使用已编译版,依然需要安装nmap
